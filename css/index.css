@@ -1,0 +1,18 @@
+#shows {
+	position: relative;
+	margin-top: 55px;
+}
+
+.section {
+	background-color: #458B74;
+	margin-bottom: 50px;
+}
+
+.img-left {
+	width: 50%;
+	margin-left: 0;
+}
+
+.info-right {
+	width: 50%;
+}
